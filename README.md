@@ -3,6 +3,8 @@ WordQuest – A fun and interactive vocabulary game to help users learn English 
 
 # WordQuest Plus - 汉语词汇学习游戏 (Mandarin Vocabulary Learning Game)
 
+# Site exemple: https://mandaringame.vercel.app/
+
 ## 📝 游戏介绍 (Game Description)
 WordQuest Plus 是一款创新的网页游戏，专门为汉语学习者设计，通过游戏化方式高效记忆词汇。主要功能包括：
 
