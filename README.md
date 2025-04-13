@@ -1,6 +1,3 @@
-# mandarin-game
-WordQuest – A fun and interactive vocabulary game to help users learn English through translation challenges, example sentences, and audio pronunciation. Built with HTML, CSS, JavaScript, and modern UI libraries.
-
 # WordQuest Plus - 汉语词汇学习游戏 (Mandarin Vocabulary Learning Game)
 
 # Site exemple: https://mandaringame.vercel.app/
